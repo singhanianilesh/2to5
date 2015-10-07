@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map.Entry;
 /*
- * Run cautiously, below code will delete the class file when run. Fun Code for Cerner 2^5 
+ * Welcome Mr. Hunt , This program will self destruct use cauion. 
  */
 
 public class MissionImpossible {
