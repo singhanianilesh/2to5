@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map.Entry;
 /*
- * Welcome Mr. Hunt , This program will self destruct use cauion. 
+ * Welcome Mr. Hunt , This program will self destruct use caution. 
  */
 
 public class MissionImpossible {
